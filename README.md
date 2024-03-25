@@ -1,5 +1,6 @@
 # Meet WALL·E! An AGV Robot For Logistic Purpose
 
+#### _Authors: [Asier Legaz](https://www.linkedin.com/in/asier-legaz-catena/), [Vadim Coselev](https://www.linkedin.com/in/vadimcoselev) and [Marcos Álvarez](https://www.linkedin.com/in/marcos-%C3%A1lvarez-echarri/)._
 
 This project involves the development of a small-scale AGV (Automated Guided Vehicle) robot that could be used in a warehouse or factory. The main motivation behind this project has been to successfully complete the Electronic Equipment Development course at the Public University of Navarre (UPNA).
 
@@ -96,5 +97,3 @@ Considering all that has been seen, it can be said that a complete electronic pr
 Below is the video showing the operation of the robot.
 
 [YouTube Demo](https://youtu.be/STE1HxnR2Vo?si=1gU94ZB5VibyTt0Y)
-
-#### _Authors: [Asier Legaz](https://www.linkedin.com/in/asier-legaz-catena/), [Vadim Coselev](https://www.linkedin.com/in/vadimcoselev) and [Marcos Álvarez](https://www.linkedin.com/in/marcos-%C3%A1lvarez-echarri/)._
